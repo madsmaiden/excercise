@@ -5,6 +5,6 @@ This is the second line!
 
 And the third, special from the conflict-test branch. 
 
-And the fourth final line. This is it.
+And the fourth final line. This is it. I mean it. 
 
 
